@@ -1,0 +1,1844 @@
+[
+ {
+  "code": "A1",
+  "atlas": "A",
+  "title": "Miejsce czarnego rynku Ozu",
+  "jp": "新宿東口 尾津マーケット跡",
+  "kind": "Yakuza/tekiya, historia",
+  "loc": "Shinjuku, okolice wyjścia wschodniego",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=新宿駅東口",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6912,
+    "lng": 139.702
+   }
+  ]
+ },
+ {
+  "code": "A2",
+  "atlas": "A",
+  "title": "Omoide Yokochō",
+  "jp": "思い出横丁",
+  "kind": "Czarny rynek, yokocho",
+  "loc": "Nishi-Shinjuku 1-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=思い出横丁",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6932,
+    "lng": 139.6995
+   }
+  ]
+ },
+ {
+  "code": "A3",
+  "atlas": "A",
+  "title": "Ameyoko",
+  "jp": "アメ横",
+  "kind": "Czarny rynek",
+  "loc": "Ueno-Okachimachi, pod torami JR",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=アメ横",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.71,
+    "lng": 139.7745
+   }
+  ]
+ },
+ {
+  "code": "A4",
+  "atlas": "A",
+  "title": "New Shinbashi Building i Shinbashi Ekimae Building",
+  "jp": "ニュー新橋ビル・新橋駅前ビル",
+  "kind": "Czarny rynek „w pionie”",
+  "loc": "Shinbashi, plac SL",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ニュー新橋ビル",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6665,
+    "lng": 139.7574
+   }
+  ]
+ },
+ {
+  "code": "A5",
+  "atlas": "A",
+  "title": "Miejsce New Latin Quarter",
+  "jp": "ニューラテンクォーター跡",
+  "kind": "Yakuza, show-biznes",
+  "loc": "Akasaka 2-chōme, teren dawnego Hotelu New Japan",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=赤坂二丁目+ホテルニュージャパン跡",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6768,
+    "lng": 139.7365
+   }
+  ]
+ },
+ {
+  "code": "A6",
+  "atlas": "A",
+  "title": "TSK・CCC Terminal w Roppongi",
+  "jp": "TSK・CCCターミナルビル跡",
+  "kind": "Yakuza, polityka",
+  "loc": "Roppongi, kilka kroków od skrzyżowania",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=六本木+TSKビル跡",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6629,
+    "lng": 139.7318
+   }
+  ]
+ },
+ {
+  "code": "A7",
+  "atlas": "A",
+  "title": "Fūrin Kaikan i dawna Parisienne",
+  "jp": "風林会館",
+  "kind": "Yakuza kontra chińskie gangi",
+  "loc": "Kabukichō 2-chōme, ulica Ku-yakusho-dōri",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=風林会館",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.696,
+    "lng": 139.7046
+   }
+  ]
+ },
+ {
+  "code": "A8",
+  "atlas": "A",
+  "title": "Miejsce „incydentu z mieczem” Kaikatsurin",
+  "jp": "青龍刀事件 快活林",
+  "kind": "Chińska mafia",
+  "loc": "Kabukichō",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6953,
+    "lng": 139.7027
+   }
+  ]
+ },
+ {
+  "code": "A9",
+  "atlas": "A",
+  "title": "Hanazono-jinja",
+  "jp": "花園神社",
+  "kind": "Tekiya, rytuał, teatr undergroundowy",
+  "loc": "Shinjuku 5-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=花園神社",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6933,
+    "lng": 139.7057
+   }
+  ]
+ },
+ {
+  "code": "A10",
+  "atlas": "A",
+  "title": "Nonbei Yokochō i dawny czarny rynek w Shibuyi",
+  "jp": "渋谷 のんべい横丁",
+  "kind": "Czarny rynek",
+  "loc": "Shibuya, przy torach JR",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=のんべい横丁+渋谷",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.66,
+    "lng": 139.7015
+   }
+  ]
+ },
+ {
+  "code": "B1",
+  "atlas": "B",
+  "title": "Yoshiwara: Mikaeri-yanagi, Emonzaka, Gojūken-michi",
+  "jp": "吉原 見返り柳・衣紋坂・五十間道",
+  "kind": "Red-light district, historia, urbanistyka",
+  "loc": "Senzoku 3 i 4-chōme, Taitō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=見返り柳",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7245,
+    "lng": 139.7973
+   }
+  ]
+ },
+ {
+  "code": "B2",
+  "atlas": "B",
+  "title": "Yoshiwara-jinja i Yoshiwara Benzaiten",
+  "jp": "吉原神社・吉原弁財天",
+  "kind": "Religia, pamięć",
+  "loc": "Senzoku 3-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=吉原弁財天",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7218,
+    "lng": 139.7932
+   }
+  ]
+ },
+ {
+  "code": "B3",
+  "atlas": "B",
+  "title": "Kastori Shobo",
+  "jp": "カストリ書房",
+  "kind": "Księgarnia, archiwum",
+  "loc": "Senzoku 4-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=カストリ書房",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7217,
+    "lng": 139.7929
+   }
+  ]
+ },
+ {
+  "code": "B4",
+  "atlas": "B",
+  "title": "Jōkan-ji, „świątynia, do której się wrzuca”",
+  "jp": "浄閑寺 投込寺",
+  "kind": "Mroczna historia",
+  "loc": "Minami-Senju 2-chōme, przy stacji Minowa",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=浄閑寺",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7308,
+    "lng": 139.7928
+   }
+  ]
+ },
+ {
+  "code": "B5",
+  "atlas": "B",
+  "title": "Susaki Paradise",
+  "jp": "洲崎パラダイス跡",
+  "kind": "Akasen, architektura",
+  "loc": "Tōyō 1-chōme, Kōtō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東陽弁天商店会",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6682,
+    "lng": 139.8175
+   }
+  ]
+ },
+ {
+  "code": "B6",
+  "atlas": "B",
+  "title": "Tamanoi",
+  "jp": "玉の井",
+  "kind": "Prywatna dzielnica „barów”, literatura",
+  "loc": "Higashi-Mukoujima 5-6 i Sumida 3-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東向島駅",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7228,
+    "lng": 139.8195
+   }
+  ]
+ },
+ {
+  "code": "B7",
+  "atlas": "B",
+  "title": "Hato-no-machi",
+  "jp": "鳩の街通り商店街",
+  "kind": "Akasen",
+  "loc": "Higashi-Mukoujima 1-chōme, 5 min od Hikifune",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=鳩の街通り商店街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7196,
+    "lng": 139.8125
+   }
+  ]
+ },
+ {
+  "code": "B8",
+  "atlas": "B",
+  "title": "Kameido, przedwojenny partner Tamanoi",
+  "jp": "亀戸",
+  "kind": "Historia prostytucji",
+  "loc": "Kameido 3-chōme, za Kameido Tenjin",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=亀戸天神社",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.702,
+    "lng": 139.821
+   }
+  ]
+ },
+ {
+  "code": "B9",
+  "atlas": "B",
+  "title": "Shinjuku Ni-chōme",
+  "jp": "新宿二丁目",
+  "kind": "Akasen, subkultura LGBTQ+",
+  "loc": "Shinjuku 2-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=新宿二丁目",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.69,
+    "lng": 139.7085
+   }
+  ]
+ },
+ {
+  "code": "B10",
+  "atlas": "B",
+  "title": "Golden Gai jako aosen",
+  "jp": "新宿ゴールデン街",
+  "kind": "Aosen, bohema",
+  "loc": "Kabukichō 1-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=新宿ゴールデン街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.694,
+    "lng": 139.7047
+   }
+  ]
+ },
+ {
+  "code": "B11",
+  "atlas": "B",
+  "title": "Uguisudani",
+  "jp": "鶯谷",
+  "kind": "Love hotele, „ostatnia inna strona Tokio”",
+  "loc": "Negishi 1-chōme, Taitō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=鶯谷駅+北口",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7222,
+    "lng": 139.7785
+   }
+  ]
+ },
+ {
+  "code": "B12",
+  "atlas": "B",
+  "title": "Maruyamachō i Dōgenzaka",
+  "jp": "円山町",
+  "kind": "Love hotele na miejscu hanamachi",
+  "loc": "Shibuya, Maruyamachō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=円山町+渋谷",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.658,
+    "lng": 139.695
+   }
+  ]
+ },
+ {
+  "code": "B13",
+  "atlas": "B",
+  "title": "Hotel Meguro Emperor",
+  "jp": "ホテル目黒エンペラー",
+  "kind": "Architektura love hoteli",
+  "loc": "Shimo-Meguro 2-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ホテル目黒エンペラー",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6327,
+    "lng": 139.7114
+   }
+  ]
+ },
+ {
+  "code": "B14",
+  "atlas": "B",
+  "title": "Ulica host clubów w Kabukichō",
+  "jp": "歌舞伎町二丁目 ホスト街",
+  "kind": "Host clubs",
+  "loc": "Kabukichō 2-chōme, wokół Hanamichi-dōri",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=歌舞伎町二丁目",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6972,
+    "lng": 139.7048
+   }
+  ]
+ },
+ {
+  "code": "B15",
+  "atlas": "B",
+  "title": "Asakusa Rock-za",
+  "jp": "浅草ロック座",
+  "kind": "Teatr striptizowy",
+  "loc": "Asakusa 1-chōme, Rokku",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=浅草ロック座",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7142,
+    "lng": 139.793
+   }
+  ]
+ },
+ {
+  "code": "B16",
+  "atlas": "B",
+  "title": "Pas Gotanda, Kinshichō, Ōtsuka, Ikebukuro",
+  "jp": "五反田・錦糸町・大塚",
+  "kind": "Geografia fuzoku",
+  "loc": "okolice stacji Yamanote i Sōbu",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "Gotanda",
+    "lat": 35.6262,
+    "lng": 139.7237
+   },
+   {
+    "label": "Kinshichō",
+    "lat": 35.6969,
+    "lng": 139.8143
+   },
+   {
+    "label": "Ōtsuka",
+    "lat": 35.7316,
+    "lng": 139.7287
+   },
+   {
+    "label": "Ikebukuro, północ",
+    "lat": 35.732,
+    "lng": 139.7105
+   }
+  ]
+ },
+ {
+  "code": "C1",
+  "atlas": "C",
+  "title": "Okienka keihin kōkanjo",
+  "jp": "景品交換所",
+  "kind": "Pachinko, mikro-architektura",
+  "loc": "w zaułkach za każdym większym salonem",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=景品交換所+新宿",
+  "read_only": false,
+  "points": [
+   {
+    "label": "Kabukichō",
+    "lat": 35.6963,
+    "lng": 139.7035
+   },
+   {
+    "label": "Ikebukuro",
+    "lat": 35.7305,
+    "lng": 139.7095
+   },
+   {
+    "label": "Kamata",
+    "lat": 35.5625,
+    "lng": 139.716
+   }
+  ]
+ },
+ {
+  "code": "C2",
+  "atlas": "C",
+  "title": "Zagęszczenie salonów: Kabukichō, Ikebukuro, Kamata",
+  "jp": "パチンコ店 密集",
+  "kind": "Pachinko",
+  "loc": "tam, gdzie stacje kolejowe i przepisy o strefach handlowych",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=パチンコ+蒲田",
+  "read_only": false,
+  "points": [
+   {
+    "label": "Kabukichō",
+    "lat": 35.6948,
+    "lng": 139.7022
+   },
+   {
+    "label": "Ikebukuro",
+    "lat": 35.7298,
+    "lng": 139.7118
+   },
+   {
+    "label": "Kamata",
+    "lat": 35.5632,
+    "lng": 139.7175
+   }
+  ]
+ },
+ {
+  "code": "C3",
+  "atlas": "C",
+  "title": "BOAT RACE Heiwajima",
+  "jp": "ボートレース平和島",
+  "kind": "Legalny hazard publiczny",
+  "loc": "Heiwajima, Ōta",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ボートレース平和島",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.583,
+    "lng": 139.742
+   }
+  ]
+ },
+ {
+  "code": "C4",
+  "atlas": "C",
+  "title": "Ōi Racecourse, Twinkle Race",
+  "jp": "大井競馬場 トゥインクルレース",
+  "kind": "Legalny hazard",
+  "loc": "Katsushima, Shinagawa",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=大井競馬場",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.5923,
+    "lng": 139.7434
+   }
+  ]
+ },
+ {
+  "code": "C5",
+  "atlas": "C",
+  "title": "WINS Asakusa",
+  "jp": "ウインズ浅草",
+  "kind": "Zakłady poza torem",
+  "loc": "Asakusa 2-chōme, Rokku",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ウインズ浅草",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7149,
+    "lng": 139.7937
+   }
+  ]
+ },
+ {
+  "code": "C6",
+  "atlas": "C",
+  "title": "Game Center Mikado",
+  "jp": "ゲームセンターミカド",
+  "kind": "Retrogaming, kultura salonów gier",
+  "loc": "Takadanobaba",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ゲームセンターミカド+高田馬場",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7127,
+    "lng": 139.7034
+   }
+  ]
+ },
+ {
+  "code": "D1",
+  "atlas": "D",
+  "title": "Meguro Parasitological Museum",
+  "jp": "目黒寄生虫館",
+  "kind": "Dziwne muzeum",
+  "loc": "Shimo-Meguro 4-1-1",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=目黒寄生虫館",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6317,
+    "lng": 139.7067
+   }
+  ]
+ },
+ {
+  "code": "D2",
+  "atlas": "D",
+  "title": "Muzeum Uniwersytetu Meiji, dział kryminalny",
+  "jp": "明治大学博物館 刑事部門",
+  "kind": "Tortury, prawo",
+  "loc": "Kanda-Surugadai, piwnica kampusu, 5 min od Ochanomizu",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=明治大学博物館",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6987,
+    "lng": 139.7622
+   }
+  ]
+ },
+ {
+  "code": "D3",
+  "atlas": "D",
+  "title": "Nakano Broadway",
+  "jp": "中野ブロードウェイ",
+  "kind": "Otaku, retro, architektura 1966",
+  "loc": "Nakano 5-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=中野ブロードウェイ",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7093,
+    "lng": 139.6657
+   }
+  ]
+ },
+ {
+  "code": "D4",
+  "atlas": "D",
+  "title": "Muryoku Muzenji",
+  "jp": "無力無善寺",
+  "kind": "Underground, bar-sztuka",
+  "loc": "Kōenji-Minami 3-chōme, pasaż pod torami",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=無力無善寺",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.704,
+    "lng": 139.647
+   }
+  ]
+ },
+ {
+  "code": "D5",
+  "atlas": "D",
+  "title": "Yūgi Shokufu w chińskim Ikebukuro",
+  "jp": "友誼食府",
+  "kind": "Chinatown „dla Chińczyków”",
+  "loc": "Nishi-Ikebukuro 1-28-6, 4. piętro",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=友誼食府",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7325,
+    "lng": 139.7085
+   }
+  ]
+ },
+ {
+  "code": "D6",
+  "atlas": "D",
+  "title": "Piwnica Ameyoko Center Building",
+  "jp": "アメ横センタービル 地下食品街",
+  "kind": "Rynek pod ziemią",
+  "loc": "Ueno 4-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=アメ横センタービル",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7095,
+    "lng": 139.7748
+   }
+  ]
+ },
+ {
+  "code": "D7",
+  "atlas": "D",
+  "title": "Dom Edogawy Rampo",
+  "jp": "旧江戸川乱歩邸",
+  "kind": "Ero-guro, literatura",
+  "loc": "Nishi-Ikebukuro 3-34-1, kampus Rikkyō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=旧江戸川乱歩邸",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7317,
+    "lng": 139.704
+   }
+  ]
+ },
+ {
+  "code": "D8",
+  "atlas": "D",
+  "title": "Muzeum Policji",
+  "jp": "警察博物館",
+  "kind": "Policja, kryminalistyka",
+  "loc": "Kyōbashi 3-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=警察博物館",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6751,
+    "lng": 139.7696
+   }
+  ]
+ },
+ {
+  "code": "D9",
+  "atlas": "D",
+  "title": "Meikyoku kissa Nerken i Renaissance",
+  "jp": "名曲喫茶ネルケン・ルネッサンス",
+  "kind": "Showa retro, „kawiarnia muzyki klasycznej”",
+  "loc": "Kōenji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=名曲喫茶ネルケン",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.705,
+    "lng": 139.6495
+   }
+  ]
+ },
+ {
+  "code": "D10",
+  "atlas": "D",
+  "title": "Akihabara Radio Center",
+  "jp": "秋葉原ラジオセンター",
+  "kind": "Zapomniana technologia, czarny rynek elektroniki",
+  "loc": "Soto-Kanda 1-chōme, pod torami",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=秋葉原ラジオセンター",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6985,
+    "lng": 139.774
+   }
+  ]
+ },
+ {
+  "code": "D11",
+  "atlas": "D",
+  "title": "Sugamo Jizō-dōri",
+  "jp": "巣鴨地蔵通り商店街",
+  "kind": "Codzienność",
+  "loc": "Sugamo",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=巣鴨地蔵通り商店街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7358,
+    "lng": 139.7355
+   }
+  ]
+ },
+ {
+  "code": "D12",
+  "atlas": "D",
+  "title": "Super Potato Akihabara",
+  "jp": "スーパーポテト 秋葉原店",
+  "kind": "Retrogaming",
+  "loc": "Soto-Kanda 1-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=スーパーポテト+秋葉原",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6994,
+    "lng": 139.7707
+   }
+  ]
+ },
+ {
+  "code": "D13",
+  "atlas": "D",
+  "title": "Kabukichō Yokochō i fenomen „neo-yokocho”",
+  "jp": "歌舞伎横丁",
+  "kind": "Kontrapunkt",
+  "loc": "Tōkyū Kabukichō Tower, 2. piętro",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=歌舞伎横丁",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6959,
+    "lng": 139.7007
+   }
+  ]
+ },
+ {
+  "code": "D14",
+  "atlas": "D",
+  "title": "Robot Restaurant",
+  "jp": "ロボットレストラン, już nie istnieje",
+  "kind": "Dystopijna Japonia na pokaz",
+  "loc": "Kabukichō 1-chōme",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.695,
+    "lng": 139.703
+   }
+  ]
+ },
+ {
+  "code": "E1",
+  "atlas": "E",
+  "title": "Kozukappara i Kubikiri Jizō",
+  "jp": "小塚原刑場跡・延命寺 首切地蔵",
+  "kind": "Miejsce egzekucji",
+  "loc": "Minami-Senju 2-34-5, 2 min od stacji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=延命寺+首切地蔵",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7316,
+    "lng": 139.7978
+   }
+  ]
+ },
+ {
+  "code": "E2",
+  "atlas": "E",
+  "title": "Kozukappara Ekō-in",
+  "jp": "小塚原回向院",
+  "kind": "Groby skazańców",
+  "loc": "Minami-Senju 5-33-13",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=小塚原回向院",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7323,
+    "lng": 139.7977
+   }
+  ]
+ },
+ {
+  "code": "E3",
+  "atlas": "E",
+  "title": "Suzugamori",
+  "jp": "鈴ヶ森刑場跡",
+  "kind": "Miejsce egzekucji",
+  "loc": "Minami-Ōi 2-chōme, przy pierwszej szosie Keihin",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=鈴ヶ森刑場跡",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.5933,
+    "lng": 139.7347
+   }
+  ]
+ },
+ {
+  "code": "E4",
+  "atlas": "E",
+  "title": "Jisshi Kōen, więzienie Kodenmachō",
+  "jp": "十思公園 伝馬町牢屋敷跡",
+  "kind": "Więzienie Edo",
+  "loc": "Nihonbashi-Kodenmachō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=十思公園",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6912,
+    "lng": 139.7776
+   }
+  ]
+ },
+ {
+  "code": "E5",
+  "atlas": "E",
+  "title": "Shōmonzuka, kurhan Masakado",
+  "jp": "将門塚",
+  "kind": "Klątwa, legenda",
+  "loc": "Ōtemachi 1-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=将門塚",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6868,
+    "lng": 139.7643
+   }
+  ]
+ },
+ {
+  "code": "E6",
+  "atlas": "E",
+  "title": "Miejsce sprawy Teigin",
+  "jp": "帝銀事件 現場跡",
+  "kind": "True crime",
+  "loc": "dawny Shiinamachi, dziś Nagasaki, Toshima",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.733,
+    "lng": 139.6865
+   }
+  ]
+ },
+ {
+  "code": "E7",
+  "atlas": "E",
+  "title": "Puste miejsce po Myojō 56",
+  "jp": "明星56ビル跡",
+  "kind": "Katastrofa, niewyjaśnione podpalenie",
+  "loc": "Kabukichō 1-18-4, ulica Ichibangai",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=歌舞伎町一丁目18-4",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6954,
+    "lng": 139.7031
+   }
+  ]
+ },
+ {
+  "code": "E8",
+  "atlas": "E",
+  "title": "Hotel New Japan",
+  "jp": "ホテルニュージャパン跡",
+  "kind": "Katastrofa",
+  "loc": "Akasaka 2-chōme, obok A5",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.677,
+    "lng": 139.7368
+   }
+  ]
+ },
+ {
+  "code": "E9",
+  "atlas": "E",
+  "title": "Tokijska Sala Pamięci w Yokoami",
+  "jp": "東京都慰霊堂",
+  "kind": "Katastrofa",
+  "loc": "Yokoami 2-chōme, Sumida",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東京都慰霊堂",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6991,
+    "lng": 139.796
+   }
+  ]
+ },
+ {
+  "code": "E10",
+  "atlas": "E",
+  "title": "Kamień pamięci po więzieniu Sugamo w Higashi-Ikebukuro",
+  "jp": "東池袋中央公園 永久平和を願って",
+  "kind": "Zbrodnie wojenne",
+  "loc": "Higashi-Ikebukuro 3-chōme, za Sunshine 60",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東池袋中央公園",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7301,
+    "lng": 139.7187
+   }
+  ]
+ },
+ {
+  "code": "E11",
+  "atlas": "E",
+  "title": "Kasumigaseki i sarin",
+  "jp": "霞ケ関駅 地下鉄サリン事件",
+  "kind": "Sekta Aum",
+  "loc": "stacja Kasumigaseki",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=霞ケ関駅",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6739,
+    "lng": 139.7511
+   }
+  ]
+ },
+ {
+  "code": "E12",
+  "atlas": "E",
+  "title": "Oiwa Inari w Yotsuya",
+  "jp": "於岩稲荷田宮神社・陽運寺",
+  "kind": "Kaidan",
+  "loc": "Yotsuya Samon-chō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=於岩稲荷田宮神社",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6856,
+    "lng": 139.7212
+   }
+  ]
+ },
+ {
+  "code": "E13",
+  "atlas": "E",
+  "title": "Tunel Sendagaya",
+  "jp": "千駄ヶ谷トンネル",
+  "kind": "Miejska legenda",
+  "loc": "Sendagaya, pod cmentarzem Senshō-ji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=千駄ヶ谷トンネル",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6808,
+    "lng": 139.7105
+   }
+  ]
+ },
+ {
+  "code": "E14",
+  "atlas": "E",
+  "title": "Ruiny zamku Hachiōji",
+  "jp": "八王子城跡",
+  "kind": "Masakra, shinrei-spot",
+  "loc": "Hachiōji, zachodnie Tokio",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=八王子城跡",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6562,
+    "lng": 139.2621
+   }
+  ]
+ },
+ {
+  "code": "E15",
+  "atlas": "E",
+  "title": "Wielka brama Anamori Inari w Haneda",
+  "jp": "穴守稲荷 大鳥居",
+  "kind": "Legenda okupacji",
+  "loc": "Haneda, przy rzece Ebitori",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=穴守稲荷+大鳥居",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.5502,
+    "lng": 139.7497
+   }
+  ]
+ },
+ {
+  "code": "E16",
+  "atlas": "E",
+  "title": "Akihabara, 8 czerwca 2008",
+  "jp": "秋葉原通り魔事件 現場",
+  "kind": "True crime",
+  "loc": "skrzyżowanie Chūō-dōri i Kanda Myōjin-dōri",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=外神田四丁目交差点",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7004,
+    "lng": 139.7714
+   }
+  ]
+ },
+ {
+  "code": "E17",
+  "atlas": "E",
+  "title": "Sala pamięci Ichigaya",
+  "jp": "市ヶ谷記念館",
+  "kind": "True crime, polityka",
+  "loc": "Ichigaya, teren Ministerstwa Obrony",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=市ヶ谷記念館",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6929,
+    "lng": 139.7283
+   }
+  ]
+ },
+ {
+  "code": "E18",
+  "atlas": "E",
+  "title": "Wyjście zachodnie Shinjuku i podpalenie autobusu 1980",
+  "jp": "新宿西口バス放火事件",
+  "kind": "True crime",
+  "loc": "terminal autobusowy, Nishi-Shinjuku",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.691,
+    "lng": 139.6972
+   }
+  ]
+ },
+ {
+  "code": "F1",
+  "atlas": "F",
+  "title": "Widmowy peron Shinbashi na linii Ginza",
+  "jp": "銀座線新橋駅 幻のホーム",
+  "kind": "Stacja-widmo",
+  "loc": "stacja Shinbashi, w stronę Toranomon",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=銀座線新橋駅",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.667,
+    "lng": 139.7592
+   }
+  ]
+ },
+ {
+  "code": "F2",
+  "atlas": "F",
+  "title": "Manseibashi: dwie stacje-widma",
+  "jp": "万世橋駅跡 マーチエキュート",
+  "kind": "Stacje-widma",
+  "loc": "Kanda-Sudachō, między Ochanomizu a Kanda",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=マーチエキュート神田万世橋",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6972,
+    "lng": 139.7699
+   }
+  ]
+ },
+ {
+  "code": "F3",
+  "atlas": "F",
+  "title": "Stacja Hakubutsukan-Dōbutsuen",
+  "jp": "旧博物館動物園駅",
+  "kind": "Stacja-widmo",
+  "loc": "park Ueno, przy Muzeum Narodowym",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=旧博物館動物園駅",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7177,
+    "lng": 139.7753
+   }
+  ]
+ },
+ {
+  "code": "F4",
+  "atlas": "F",
+  "title": "Nakagin Capsule Tower",
+  "jp": "中銀カプセルタワービル跡",
+  "kind": "Utracona architektura",
+  "loc": "Ginza 8-16",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=銀座八丁目16",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6667,
+    "lng": 139.7635
+   }
+  ]
+ },
+ {
+  "code": "F5",
+  "atlas": "F",
+  "title": "Tateishi, północna strona stacji",
+  "jp": "立石 呑んべ横丁跡",
+  "kind": "Znikające Tokio",
+  "loc": "Tateishi 7-chōme, Katsushika",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=京成立石駅",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7385,
+    "lng": 139.8479
+   }
+  ]
+ },
+ {
+  "code": "F6",
+  "atlas": "F",
+  "title": "Miejsce stadionu Susaki",
+  "jp": "洲崎球場跡",
+  "kind": "Zapomniany sport",
+  "loc": "Shin-Suna/Tōyō, Kōtō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=洲崎球場跡",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.666,
+    "lng": 139.82
+   }
+  ]
+ },
+ {
+  "code": "F7",
+  "atlas": "F",
+  "title": "„Stadion światła” w Minami-Senju",
+  "jp": "東京スタジアム跡",
+  "kind": "Zapomniany sport",
+  "loc": "Minami-Senju 6-chōme",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=荒川総合スポーツセンター",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7358,
+    "lng": 139.7913
+   }
+  ]
+ },
+ {
+  "code": "F8",
+  "atlas": "F",
+  "title": "Apartamenty Dōjunkai",
+  "jp": "同潤会アパート",
+  "kind": "Utracona architektura",
+  "loc": "całe Tokio",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6672,
+    "lng": 139.7127
+   }
+  ]
+ },
+ {
+  "code": "F9",
+  "atlas": "F",
+  "title": "Pasaż pod stacją Ueno",
+  "jp": "上野地下鉄ストア路",
+  "kind": "Zniknięty pasaż",
+  "loc": "przejście do linii Ginza na Ueno",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7122,
+    "lng": 139.7773
+   }
+  ]
+ },
+ {
+  "code": "F10",
+  "atlas": "F",
+  "title": "Nakano Sunplaza",
+  "jp": "中野サンプラザ",
+  "kind": "Budynek w zawieszeniu",
+  "loc": "Nakano 4-chōme, przy stacji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=中野サンプラザ",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7076,
+    "lng": 139.6647
+   }
+  ]
+ },
+ {
+  "code": "G1",
+  "atlas": "G",
+  "title": "UFO Club",
+  "jp": "東高円寺U.F.O.CLUB",
+  "kind": "Psychodelia, noise, garage",
+  "loc": "Kōenji-Minami 1-11-6, piwnica Harmony Hills",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東高円寺UFO+CLUB",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6982,
+    "lng": 139.6551
+   }
+  ]
+ },
+ {
+  "code": "G2",
+  "atlas": "G",
+  "title": "Higashi-Kōenji Niman Denatsu",
+  "jp": "東高円寺二万電圧",
+  "kind": "Punk, hardcore, metal",
+  "loc": "Higashi-Kōenji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=東高円寺二万電圧",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6985,
+    "lng": 139.6582
+   }
+  ]
+ },
+ {
+  "code": "G3",
+  "atlas": "G",
+  "title": "JIROKICHI",
+  "jp": "高円寺JIROKICHI",
+  "kind": "Blues, folk, rock",
+  "loc": "Kōenji, północ",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=高円寺JIROKICHI",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7057,
+    "lng": 139.6514
+   }
+  ]
+ },
+ {
+  "code": "G4",
+  "atlas": "G",
+  "title": "Shinjuku LOFT",
+  "jp": "新宿LOFT",
+  "kind": "Punk, rock",
+  "loc": "Kabukichō 1-chōme, piwnica",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=新宿LOFT",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6956,
+    "lng": 139.7033
+   }
+  ]
+ },
+ {
+  "code": "G5",
+  "atlas": "G",
+  "title": "Tatsumi PA i „Tatsumi Jump”",
+  "jp": "辰巳第一PA",
+  "kind": "Kultura samochodowa, bosozoku po latach",
+  "loc": "Shuto 9 Fukagawa, Kōtō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=辰巳第一パーキングエリア",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6434,
+    "lng": 139.8101
+   }
+  ]
+ },
+ {
+  "code": "G6",
+  "atlas": "G",
+  "title": "Otome Road",
+  "jp": "乙女ロード",
+  "kind": "Kobiece otaku, BL",
+  "loc": "Higashi-Ikebukuro 3-chōme, za Sunshine City",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=乙女ロード",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7305,
+    "lng": 139.7179
+   }
+  ]
+ },
+ {
+  "code": "G7",
+  "atlas": "G",
+  "title": "Shirōto no Ran",
+  "jp": "素人の乱",
+  "kind": "Aktywizm, recykling, anarchistyczna kultura",
+  "loc": "Kōenji, północ",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=素人の乱+高円寺",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7069,
+    "lng": 139.6461
+   }
+  ]
+ },
+ {
+  "code": "G8",
+  "atlas": "G",
+  "title": "Jingū-bashi, most cosplayerów",
+  "jp": "神宮橋",
+  "kind": "Zniknięta subkultura",
+  "loc": "Harajuku, most przy Meiji-jingū",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6704,
+    "lng": 139.7013
+   }
+  ]
+ },
+ {
+  "code": "G9",
+  "atlas": "G",
+  "title": "Taco ché w Nakano Broadway",
+  "jp": "タコシェ",
+  "kind": "Ziny, ero-guro, manga alternatywna",
+  "loc": "Nakano Broadway, 3. piętro",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=タコシェ+中野",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7097,
+    "lng": 139.6657
+   }
+  ]
+ },
+ {
+  "code": "G10",
+  "atlas": "G",
+  "title": "Ikebukuro EDGE i Takadanobaba AREA",
+  "jp": "池袋EDGE・高田馬場AREA",
+  "kind": "Visual kei",
+  "loc": "Ikebukuro i Takadanobaba",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=高田馬場AREA",
+  "read_only": false,
+  "points": [
+   {
+    "label": "Takadanobaba AREA",
+    "lat": 35.7138,
+    "lng": 139.705
+   },
+   {
+    "label": "Ikebukuro EDGE",
+    "lat": 35.7291,
+    "lng": 139.7129
+   }
+  ]
+ },
+ {
+  "code": "G11",
+  "atlas": "G",
+  "title": "Forestlimit w Hatagaya",
+  "jp": "幡ヶ谷 Forestlimit",
+  "kind": "Eksperymentalna elektronika",
+  "loc": "Hatagaya, Shibuya-ku",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Forestlimit+幡ヶ谷",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6781,
+    "lng": 139.6771
+   }
+  ]
+ },
+ {
+  "code": "H1",
+  "atlas": "H",
+  "title": "Sanya",
+  "jp": "山谷",
+  "kind": "Doya-gai, ubóstwo, dniówkarze",
+  "loc": "Kiyokawa i Nihonzutsumi, Taitō, przy granicy z Arakawą",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=山谷+台東区",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7288,
+    "lng": 139.7962
+   }
+  ]
+ },
+ {
+  "code": "H2",
+  "atlas": "H",
+  "title": "Namidabashi",
+  "jp": "泪橋",
+  "kind": "Symbol",
+  "loc": "skrzyżowanie Meiji-dōri i dawnego Nikkō-kaidō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=泪橋+交差点",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7294,
+    "lng": 139.7992
+   }
+  ]
+ },
+ {
+  "code": "H3",
+  "atlas": "H",
+  "title": "Tateishi Nakamise, strona południowa",
+  "jp": "立石仲見世商店街",
+  "kind": "Czarny rynek, senbero",
+  "loc": "Tateishi 1-chōme, Katsushika",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=立石仲見世",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7377,
+    "lng": 139.8491
+   }
+  ]
+ },
+ {
+  "code": "H4",
+  "atlas": "H",
+  "title": "Nishi-Ogikubo, uliczki przy wyjściu południowym",
+  "jp": "西荻窪 南口 飲み屋街",
+  "kind": "Czarny rynek",
+  "loc": "Nishi-Ogikubo",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=西荻窪駅南口",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.703,
+    "lng": 139.6003
+   }
+  ]
+ },
+ {
+  "code": "H5",
+  "atlas": "H",
+  "title": "Akabane: Ichiban-gai i OK Yokochō",
+  "jp": "赤羽一番街・OK横丁",
+  "kind": "Senbero, robotnicza Północ",
+  "loc": "Akabane, Kita",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=赤羽一番街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7815,
+    "lng": 139.7201
+   }
+  ]
+ },
+ {
+  "code": "H6",
+  "atlas": "H",
+  "title": "Kichijōji Harmonica Yokochō",
+  "jp": "ハーモニカ横丁",
+  "kind": "Czarny rynek",
+  "loc": "Kichijōji, wyjście północne",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ハーモニカ横丁",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7038,
+    "lng": 139.5793
+   }
+  ]
+ },
+ {
+  "code": "H7",
+  "atlas": "H",
+  "title": "Yūrakuchō gado-shita",
+  "jp": "有楽町ガード下",
+  "kind": "Infrastruktura",
+  "loc": "pod wiaduktem JR między Yūrakuchō a Shinbashi",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=有楽町ガード下",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.673,
+    "lng": 139.7617
+   }
+  ]
+ },
+ {
+  "code": "H8",
+  "atlas": "H",
+  "title": "Kyōjima",
+  "jp": "京島",
+  "kind": "Gęsta zabudowa, nagaya",
+  "loc": "Kyōjima 1-3-chōme, Sumida",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=京島+墨田区",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7157,
+    "lng": 139.8209
+   }
+  ]
+ },
+ {
+  "code": "H9",
+  "atlas": "H",
+  "title": "Joyful Minowa i linia Toden Arakawa",
+  "jp": "ジョイフル三の輪・都電荒川線",
+  "kind": "Shotengai, ostatni tramwaj",
+  "loc": "Minowa, Arakawa",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=ジョイフル三の輪",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7335,
+    "lng": 139.7895
+   }
+  ]
+ },
+ {
+  "code": "H10",
+  "atlas": "H",
+  "title": "Kōenji i jego 20 shotengai",
+  "jp": "高円寺 商店街",
+  "kind": "Urbanistyka",
+  "loc": "Kōenji",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=高円寺パル商店街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7041,
+    "lng": 139.6489
+   }
+  ]
+ },
+ {
+  "code": "H11",
+  "atlas": "H",
+  "title": "Jūjō Ginza",
+  "jp": "十条銀座商店街",
+  "kind": "Shotengai",
+  "loc": "Jūjō, Kita",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=十条銀座商店街",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7625,
+    "lng": 139.7213
+   }
+  ]
+ },
+ {
+  "code": "H12",
+  "atlas": "H",
+  "title": "Kamata Barakku Yokochō",
+  "jp": "バラック横丁 蒲田",
+  "kind": "Yokocho",
+  "loc": "Kamata, Ōta",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=蒲田+バラック横丁",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.5622,
+    "lng": 139.716
+   }
+  ]
+ },
+ {
+  "code": "H13",
+  "atlas": "H",
+  "title": "Kita-Senju: Nomiya Yokochō",
+  "jp": "北千住 飲み屋横丁",
+  "kind": "Yokocho, trakt Nikkō",
+  "loc": "Kita-Senju, Adachi",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=北千住+飲み屋横丁",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7498,
+    "lng": 139.8048
+   }
+  ]
+ },
+ {
+  "code": "I1",
+  "atlas": "I",
+  "title": "Reiyūkai Shakaden",
+  "jp": "霊友会釈迦殿",
+  "kind": "Nowe religie, architektura",
+  "loc": "Azabudai 1-chōme, Minato",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=霊友会釈迦殿",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6611,
+    "lng": 139.7422
+   }
+  ]
+ },
+ {
+  "code": "I2",
+  "atlas": "I",
+  "title": "Wielka sala Rissō Kōsei-kai",
+  "jp": "立正佼成会大聖堂",
+  "kind": "Nowe religie",
+  "loc": "Wada, Suginami",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=立正佼成会+大聖堂",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6886,
+    "lng": 139.6579
+   }
+  ]
+ },
+ {
+  "code": "I3",
+  "atlas": "I",
+  "title": "Ōtori-jinja i Tori-no-ichi w Senzoku",
+  "jp": "鷲神社 酉の市",
+  "kind": "Tekiya, rytuał",
+  "loc": "Senzoku 3-chōme, tuż przy Yoshiwarze",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=鷲神社+浅草",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7225,
+    "lng": 139.7918
+   }
+  ]
+ },
+ {
+  "code": "I4",
+  "atlas": "I",
+  "title": "Cmentarz zwierząt Jindai-ji",
+  "jp": "深大寺動物霊園",
+  "kind": "Pogrzeby zwierząt",
+  "loc": "Jindaiji, Chōfu",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=深大寺動物霊園",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6722,
+    "lng": 139.558
+   }
+  ]
+ },
+ {
+  "code": "I5",
+  "atlas": "I",
+  "title": "Poranne treningi w stajniach sumo, Ryōgoku",
+  "jp": "相撲部屋 朝稽古",
+  "kind": "Sumo",
+  "loc": "Ryōgoku i Kiyosumi, Sumida/Kōtō",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=両国+相撲部屋",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.695,
+    "lng": 139.7965
+   }
+  ]
+ },
+ {
+  "code": "I6",
+  "atlas": "I",
+  "title": "Daikoku-yu w Kita-Senju",
+  "jp": "大黒湯",
+  "kind": "Sentō",
+  "loc": "Kita-Senju, Adachi",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=大黒湯+北千住",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7488,
+    "lng": 139.801
+   }
+  ]
+ },
+ {
+  "code": "I7",
+  "atlas": "I",
+  "title": "Gōtoku-ji, świątynia maneki-neko",
+  "jp": "豪徳寺",
+  "kind": "Magia na co dzień",
+  "loc": "Gōtokuji, Setagaya",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=豪徳寺",
+  "read_only": false,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.6535,
+    "lng": 139.6469
+   }
+  ]
+ },
+ {
+  "code": "I8",
+  "atlas": "I",
+  "title": "Poranna yoseba w Takadanobaba",
+  "jp": "高田馬場 寄せ場",
+  "kind": "Rynek dniówkarzy",
+  "loc": "okolice stacji Takadanobaba, bardzo wcześnie rano",
+  "google_maps": "",
+  "read_only": true,
+  "points": [
+   {
+    "label": "",
+    "lat": 35.7138,
+    "lng": 139.704
+   }
+  ]
+ }
+]
